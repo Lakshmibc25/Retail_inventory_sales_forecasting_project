@@ -1,6 +1,6 @@
 # RetailIQ — Data-Driven Retail Inventory Optimization
 ### Using Time-Series Forecasting for Demand Prediction
-**Final Year Project | Dept. of Computer Science & Engineering**
+Dept. of Computer Science & Engineering**
 
 ---
 
